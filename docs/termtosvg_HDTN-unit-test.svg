@@ -2,7 +2,7 @@
     <defs>
         <termtosvg:template_settings xmlns:termtosvg="https://github.com/nbedos/termtosvg">
             <termtosvg:screen_geometry columns="126" rows="29"/>
-            <termtosvg:animation type="waapi"/>
+            <termtosvg:animation type="css"/>
         </termtosvg:template_settings>
         <style type="text/css" id="generated-style"><![CDATA[
         #screen {
